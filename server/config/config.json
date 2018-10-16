@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "rticneth",
+    "database": "digital_map",
+    "host": "obu-nexty.cdl8gwgaorlb.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres",
+    "secretKey": "RTICNETH"
+  },
+  "test": {
+    "username": "root",
+    "password": "rticneth",
+    "database": "digital_map",
+    "host": "obu-nexty.cdl8gwgaorlb.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres",
+    "secretKey": "RTICNETH"
+  },
+  "production": {
+    "username": "root",
+    "password": "rticneth",
+    "database": "digital_map",
+    "host": "obu-nexty.cdl8gwgaorlb.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres",
+    "secretKey": "RTICNETH"
+  }
+}
